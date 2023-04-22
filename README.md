@@ -3,7 +3,7 @@
 La base de datos original se llama 'kMer-BloomFilter.txt', y consiste en una secuencia de ADN K-merizada que proviene de muestras de cálculo dental humano.
 A partir de esta base de datos se crea el Bloom Filter y se compara con otras muestras de ADN, que pueden ser de cálculo dentral o de alguna otra especie, y
 se determinar el porcentaje de contaminación. </br> </br>
-'No contaminado' significa que hubo coincidencia entre las secuencias de ADN (k-mers).
+'No contaminado' significa que hubo coincidencia entre las secuencias de ADN (k-mers).</br>
 'Contaminado', en cambio, indica que las secuencias comparadas no coinciden.
 </br>
 </br>
