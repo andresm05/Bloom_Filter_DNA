@@ -16,3 +16,22 @@ https://www.ncbi.nlm.nih.gov/Traces/index.html?view=run_browser&display=metadata
 </br>
 </br>
 Los códigos correspondientes a las muestras empleadas se listan a continuación.
+</br>
+- SRR000118 </br>
+- ERR002803 </br>
+- SRR013584 </br>
+- SRR2229974 </br>
+- SRR957742 </br>
+- SRR957743 </br>
+- SRR5297131 </br>
+- SRR12136712 </br>
+- SRR12557008 </br>
+- SRR2229976 </br>
+- SRR6877305 </br>
+- SRR5297132 </br>
+- SRR6877303 </br>
+- SRR11176633 </br>
+- SRR12462944 </br> </br>
+
+La base de datos original puede descargarse a través del siguiente enlace. </br>
+https://drive.google.com/file/d/1rV4uIFbqmwmAEQVNg3JAtHseh3wRNlr3/view?usp=sharing
